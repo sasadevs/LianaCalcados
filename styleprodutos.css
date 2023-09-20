@@ -1,0 +1,30 @@
+
+body {background-color: #E3E3D3;
+	font-family: Georgia, serif;}
+
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.produtos {background-color: #EEEEEE;
+		width: 760pxs;
+		height:470px;
+		text-align:center;
+		margin-top: 20px;
+		margin-left: 329px;
+		margin-right: 328px;
+		padding: 20px;
+		}
+
+
+
+table {border: 0px solid black;}
+
+td {border: 0px solid black;}
+
+
+th {border: 0px solid black;}
