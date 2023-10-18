@@ -30,7 +30,10 @@ body {background-color: #E3E3D3;
 
 #carrinhobotao {font-size: 20px;
 				text-decoration: none;
-				margin-left: 550px;}
+				margin-left: 680px;
+				background-color: #EEEEEE;
+				padding: 20px;
+				width: 150px;}
 
 
 li {
