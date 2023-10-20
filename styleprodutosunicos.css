@@ -8,13 +8,14 @@ html, body {
   padding: 0;
 }
 
-#selecttamanho {margin: 30px;}
+#selecttamanho {margin-top: 30px;}
 
 .produtos {background-color: #EEEEEE;
-		width: 500px;
-		height: 550px;
+		width: 400px;
+		height: 400px;
 		text-align:center;
-		margin-left: 500px;
+		margin: 30px;
+		margin-left: 120px;
 		padding: 20px;
 		}
 
@@ -23,6 +24,17 @@ html, body {
 								background-color: #E3E3D3;
 								font-family: Georgia, serif;
 								margin: 10px;}
+
+
+.caixaprodutosunicos {width: 500px;
+											height: 200px;
+											float: left;
+											margin-right: 400px;
+											margin-bottom: 250px;}
+
+
+.espacobotaoprodutos {margin-top: 50px;
+											}
 
 
 table {border: 0px solid black;}

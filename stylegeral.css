@@ -10,6 +10,9 @@ body {background-color: #E3E3D3;
 .logo {margin-left:1px;}
 
 
+#cabecalho {background-color: #786C6C;
+            width: 100%;
+            height: 35px;}
 
 
 #navegacao {float: right;
@@ -17,14 +20,29 @@ body {background-color: #E3E3D3;
 
 
 
-.legenda {font-style: italic;}
+
+
+.legenda {font-style: italic;
+					font-family: Georgia, serif;}
+
+
+
+
+/*legenda img sobre nos*/
+
+.legenda2 {font-style: italic;
+					font-family: Georgia, serif;
+					padding: 150px;}
+
+
+
 
 
 .produtos {background-color: #EEEEEE;
 		width: 200px;
 		height: 430px;
 		padding: 30px;
-		}
+		border-radius: 15px;}
 
 
 
@@ -33,7 +51,19 @@ body {background-color: #E3E3D3;
 				margin-left: 680px;
 				background-color: #EEEEEE;
 				padding: 20px;
-				width: 150px;}
+				width: 150px;
+				border-radius: 15px;}
+
+
+.imgsobrenos {background-color: #EEEEEE;
+		width: 500px;
+		height: 500px;
+		padding: 20px;
+		border-radius: 15px;
+		margin-left: 80px;
+		margin-top: 50px;
+		margin-bottom: 50px;}
+
 
 
 li {
@@ -41,8 +71,7 @@ li {
 }
 
 
-li a {padding: 8px;
-  background-color: #EEEEEE;}
+li a {padding: 8px;}
 
 
 
