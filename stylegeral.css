@@ -7,16 +7,19 @@ body {background-color: #E3E3D3;
 
 
 
-.logo {margin-left:1px;}
 
 
 #cabecalho {background-color: #786C6C;
             width: 100%;
-            height: 35px;}
+            height: 150px;}
 
 
 #navegacao {float: right;
-		margin-right: 50px;}
+		margin-top: 50px;
+		margin-right: 50px;
+		background-color: #EEEEEE;
+		padding: 10px;
+		border-radius: 15px;}
 
 
 
@@ -32,7 +35,10 @@ body {background-color: #E3E3D3;
 
 .legenda2 {font-style: italic;
 					font-family: Georgia, serif;
-					padding: 150px;}
+					width: 400px;
+					margin-left: 60px;
+					display: inline-block;
+					}
 
 
 
@@ -42,13 +48,15 @@ body {background-color: #E3E3D3;
 		width: 200px;
 		height: 430px;
 		padding: 30px;
-		border-radius: 15px;}
+		border-radius: 15px;
+		display: inline-block;}
 
 
 
-#carrinhobotao {font-size: 20px;
+#carrinhobotao {margin-left: 43%;
+				margin-top: 40px;
+				font-size: 20px;
 				text-decoration: none;
-				margin-left: 680px;
 				background-color: #EEEEEE;
 				padding: 20px;
 				width: 150px;
@@ -62,7 +70,14 @@ body {background-color: #E3E3D3;
 		border-radius: 15px;
 		margin-left: 80px;
 		margin-top: 50px;
-		margin-bottom: 50px;}
+		margin-bottom: 50px;
+		display: inline-block;}
+
+
+.rodape {text-align: center;
+	width: 100%;
+	height: 50px;
+	margin-top: 50px;}
 
 
 
@@ -76,12 +91,3 @@ li a {padding: 8px;}
 
 
 
-
-table {border: 0px solid black;
-	width: 100%;
-	height:100%;}
-
-td {border: 0px solid black;}
-
-
-th {border: 0px solid black;}

@@ -27,19 +27,16 @@ html, body {
 
 
 .caixaprodutosunicos {width: 500px;
-											height: 200px;
-											float: left;
-											margin-right: 400px;
-											margin-bottom: 250px;}
+					height: 200px;
+					float: left;
+					margin-bottom: 250px;
+					margin-top: 50px;}
+					
+
+.organizacaocaixa {display: inline-block;}
 
 
 .espacobotaoprodutos {margin-top: 50px;
 											}
 
 
-table {border: 0px solid black;}
-
-td {border: 0px solid black;}
-
-
-th {border: 0px solid black;}
