@@ -30,7 +30,8 @@ html, body {
 					height: 200px;
 					float: left;
 					margin-bottom: 250px;
-					margin-top: 50px;}
+					margin-top: 50px;
+					margin-left: 30px;}
 					
 
 .organizacaocaixa {display: inline-block;}
